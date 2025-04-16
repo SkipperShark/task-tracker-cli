@@ -1,0 +1,2 @@
+- figure out what package.json can do
+- add documentation in readme.md
